@@ -4,7 +4,7 @@ import 'package:nope/screens/family_screen.dart';
 import '/screens/comments_screen.dart';
 
 import '/providers/color.dart';
-import '/screens/auth_screen.dart';
+import '/screens/auth_screen.dart'; 
 import '/screens/main_screen.dart';
 import '/screens/personal_profile.dart';
 import '/screens/splash_screen.dart';
